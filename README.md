@@ -1,6 +1,8 @@
-# usharp
+# Description
 USharp addon for UniEnviro.
 
-# Information
+# Notices
 
 ***This addon is for UniEnviro only!***
+
+[USharp Addon Downloads]: https://www.usharp.xyzdesk.online
