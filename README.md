@@ -1,2 +1,4 @@
 # usharp
-USharp addon for Uniscript.
+USharp addon for UniEnviro.
+=== Information ===
+***This addon is for UniEnviro only!***
