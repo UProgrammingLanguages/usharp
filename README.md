@@ -1,4 +1,6 @@
 # usharp
 USharp addon for UniEnviro.
-=== Information ===
+
+# Information
+
 ***This addon is for UniEnviro only!***
